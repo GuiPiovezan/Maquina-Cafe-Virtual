@@ -1,0 +1,10 @@
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\bin\Debug\MaquinaCafeVirtual.exe.config
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\bin\Debug\MaquinaCafeVirtual.exe
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\bin\Debug\MaquinaCafeVirtual.pdb
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\obj\Debug\MaquinaCafeVirtual.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\obj\Debug\MaquinaCafeVirtual.frmMaquinaCafeVirtual.resources
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\obj\Debug\MaquinaCafeVirtual.Properties.Resources.resources
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\obj\Debug\MaquinaCafeVirtual.csproj.GenerateResource.cache
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\obj\Debug\MaquinaCafeVirtual.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\obj\Debug\MaquinaCafeVirtual.exe
+C:\Users\wilso\source\repos\SLN_MaquinaCafeVirtual\MaquinaCafeVirtual\obj\Debug\MaquinaCafeVirtual.pdb
